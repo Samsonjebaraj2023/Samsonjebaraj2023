@@ -11,7 +11,7 @@
 - 📚 Learning **Terraform, Kubernetes, Helm & SRE practices**  
 - 🛠️ Love building **end-to-end pipelines**  
 - 🤝 Open to DevOps & Cloud collaboration  
-- 📫 Reach me at: **(your email here)**  
+- 📫 Reach me at: **samsonjebaraj2022@gmail.com**  
 
 ---
 
@@ -37,7 +37,7 @@
 ### 🔹 CI/CD Pipeline for Mixpost  
 Automated deployment workflow using GitHub Actions → EC2 → Nginx.
 
-### 🔹 Driveez Rasa Chatbot  
+### 🔹 Rasa Chatbot  
 AI-powered booking assistant with form handling & slot scheduling.
 
 ### 🔹 AWS Metrics Fetcher  
