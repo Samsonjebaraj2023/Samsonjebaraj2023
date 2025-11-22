@@ -6,9 +6,9 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🌩️ Working with **AWS, Linux, CI/CD, Docker, Nginx, and GitHub Actions**
+- 🌩️ Working with **AWS, Linux, CI/CD, Docker, Nginx, and Terraform**
 - ⚙️ Automating deployments & improving cloud infrastructure  
-- 📚 Learning **Terraform, Kubernetes, Helm & SRE practices**  
+- 📚 Learning **MCP, Kubernetes, Helm & SRE practices**  
 - 🛠️ Love building **end-to-end pipelines**  
 - 🤝 Open to DevOps & Cloud collaboration  
 - 📫 Reach me at: **samsonjebaraj2022@gmail.com**  
@@ -42,6 +42,9 @@ AI-powered booking assistant with form handling & slot scheduling.
 
 ### 🔹 AWS Metrics Fetcher  
 Custom script to retrieve EC2 & RDS metrics using AWS APIs.
+
+### 🔹 MySQL Query Assistant  
+A web-based AI-powered tool that converts **natural language** into **SQL queries** and executes them on MySQL databases with **multi-tenant support**.
 
 ---
 
